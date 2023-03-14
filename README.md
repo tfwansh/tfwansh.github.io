@@ -1,7 +1,10 @@
-# tfwansh.github.io
+### Hi there 👋 !
 
-### Socials:  
-E-mail: mailansh@pm.me
+**You can refer to me as tfwansh.**
+
+### **⚡ Socials:**  
+E-mail: mailansh@pm.me    
+Website: https://tfwansh.github.io
 
 Twitter: https://twitter.com/tfwansh  
 Github: https://github.com/tfwansh
@@ -13,16 +16,16 @@ Instagram: https://www.instagram.com/tfwansh/
 Reddit: https://www.reddit.com/user/tfwansh
 
 ---
-### About Me:
+### **🔭 About Me:**
 
-Computer Science Undergrad, Freshman.
-Busy creating a personal online brand currently. Content creation starts soon, apparently.
+Computer Science Undergrad, Freshman.  
+Currently busy creating a personal online brand. Content creation starts soon, apparently.
 
 ---
-### Interests:
+### **💬 Interests:**
 
 tech, music, movies, writing, film making, photography, fitness, video games, guitar, drums, finance, economics, startups, products, marketing, social media, football, basketball, programming, chess, choreography, cooking, cars, F1, geopolitics, cybersecurity, social engineering, constructed adventures/escape rooms, hiking, comedy.
 
 ---
-#### *Wanna reach out?*  
+#### *📫 Wanna reach out?*  
 I prefer [E-mail](mailto:mailansh@pm.me). [Instagram](https://www.instagram.com/tfwansh/) works too.
