@@ -13,7 +13,7 @@
 - Twitch: [https://www.twitch.tv/tfwansh](https://www.twitch.tv/tfwansh)
 
 - Instagram: [https://www.instagram.com/tfwansh/](https://www.instagram.com/tfwansh/)      
-- Reddit: [https://www.reddit.com/user/tfwansh](https://www.reddit.com/user/tfwansh)
+<!--- - Reddit: [https://www.reddit.com/user/tfwansh](https://www.reddit.com/user/tfwansh) --->
 
 ---
 ### **🔭 About Me:**
