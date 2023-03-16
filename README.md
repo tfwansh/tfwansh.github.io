@@ -26,6 +26,7 @@
 
 tech, music, movies, writing, film making, photography, fitness, video games, guitar, drums, finance, economics, startups, products, marketing, social media, football, basketball, programming, chess, choreography, cooking, cars, F1, geopolitics, cybersecurity, social engineering, constructed adventures/escape rooms, hiking, comedy.
 (So cliche right? Ik ... But I need to fill this page for now).
+
 ---
 #### *📫 Wanna reach out?*  
 - I prefer [E-mail](mailto:mailansh@pm.me).    
