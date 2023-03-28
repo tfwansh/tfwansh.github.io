@@ -1,7 +1,3 @@
----
-title: TFW.
----
-
 ### Hi there 👋 !
 
 **The name is Ansh. Online, I go by tfwansh.**
