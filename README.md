@@ -1,3 +1,9 @@
+---
+layout: default
+title: TFW!
+js:
+  - /assets/js/script.js
+---
 ### Hi there 👋 !
 
 **The name is Ansh. Online, I go by tfwansh.**
@@ -33,5 +39,9 @@ tech, music, movies, writing, film making, photography, fitness, video games, gu
 - Discord: <button onclick="copyToClipboard()" style="background-color: #222; color: #fff; border: 2px solid #fff; padding: 10px 20px; font-size: 16px; cursor: pointer;">vercetti#7058</button>
 - [Instagram](https://www.instagram.com/tfwansh/) [Mostly inactive, slowest response].
 
-<script>function copyToClipboard(){const e=document.querySelector("button"),t=e.innerText;navigator.clipboard.writeText(t);const o=document.createElement("span");o.innerText="Copied!",o.style.backgroundColor="#222",o.style.color="#fff",o.style.padding="5px 10px",o.style.position="absolute",o.style.top="50%",o.style.left="50%",o.style.transform="translate(-50%, -50%)",document.body.appendChild(o),setTimeout(()=>{document.body.removeChild(o)},1e3)}</script>
+<head>
+  <link rel="stylesheet" type="text/css" href="/assets/css/dark-mode.css">
+</head>
+
+
 
