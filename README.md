@@ -30,7 +30,7 @@ tech, music, movies, writing, film making, photography, fitness, video games, gu
 ---
 #### *📫 Wanna reach out?*  
 - [E-mail](mailto:mailansh@pm.me) [Fastest Response]
-- Discord: <button id="copy-button" onclick="copyToClipboard()" style="background-color: #212121; color: #fff; border: none; padding: 0.5rem 1rem; border-radius: 0.25rem; font-size: 1rem; cursor: pointer; transition: background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#303030'" onmouseout="this.style.backgroundColor='#212121'">Copy Text</button>
+- Discord: <button id="copy-button" onclick="copyToClipboard()" style="background-color: #212121; color: #fff; border: none; padding: 0.5rem 1rem; border-radius: 0.25rem; font-size: 1rem; cursor: pointer; transition: background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#303030'" onmouseout="this.style.backgroundColor='#212121'">vercetti#7058</button>
 - [Instagram](https://www.instagram.com/tfwansh/) [Mostly inactive, slowest response].
 
 <script>function copyToClipboard(){let t=document.getElementById("text-to-copy").innerText;navigator.clipboard.writeText(t).then(function(){alert("Text copied to clipboard!")},function(){alert("Failed to copy text to clipboard.")})}</script>
