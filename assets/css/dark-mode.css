@@ -1,0 +1,20 @@
+/* Dark mode styling */
+body.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
+
+/* Toggle button styling */
+#dark-mode-toggle {
+  background-color: #fff;
+  color: #222;
+  border: 1px solid #222;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#dark-mode-toggle.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
