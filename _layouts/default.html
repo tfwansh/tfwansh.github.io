@@ -4,13 +4,13 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="assets/css/styles.css">
     {% if page.js %}
-  {% for script in page.js %}
-    <script src="{{ script }}"></script>
-  {% endfor %}
-{% endif %}
-  
+      {% for script in page.js %}
+        <script src="{{ script }}"></script>
+      {% endfor %}
+    {% endif %}
   </head>
+
   <body>
-    <!-- Page content goes here -->
+    {{ content }}
   </body>
 </html>
