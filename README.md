@@ -1,4 +1,4 @@
-button{background-color:#212121;color:#fff;border:none;padding:.5rem 1rem;border-radius:.25rem;font-size:1rem;cursor:pointer;transition:background-color .3s}button:hover{background-color:#303030}
+<head><style>button{background-color:#212121;color:#fff;border:none;padding:.5rem 1rem;border-radius:.25rem;font-size:1rem;cursor:pointer;transition:background-color .3s}button:hover{background-color:#303030}</style></head>
 
 ### Hi there 👋 !
 
