@@ -1,3 +1,7 @@
+---
+title: TFW!.
+---
+
 ### Hi there 👋 !
 
 **The name is Ansh. Online, I go by tfwansh.**
@@ -30,6 +34,7 @@ tech, music, movies, writing, film making, photography, fitness, video games, gu
 ---
 #### *📫 Wanna reach out?*  
 - [E-mail](mailto:mailansh@pm.me) [Fastest Response]
-- Discord: <div class="background"><button class="clipboard">vercetti#7058</button></div>
+- Discord: <button class="clipboard">vercetti#7058</button>
 - [Instagram](https://www.instagram.com/tfwansh/) [Mostly inactive, slowest response].
 
+{% include /assets/js %}
