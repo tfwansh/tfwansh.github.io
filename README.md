@@ -1,6 +1,7 @@
 ---
 title: TFW!.
 ---
+button{background-color:#212121;color:#fff;border:none;padding:.5rem 1rem;border-radius:.25rem;font-size:1rem;cursor:pointer;transition:background-color .3s}button:hover{background-color:#303030}
 
 ### Hi there 👋 !
 
@@ -34,7 +35,7 @@ tech, music, movies, writing, film making, photography, fitness, video games, gu
 ---
 #### *📫 Wanna reach out?*  
 - [E-mail](mailto:mailansh@pm.me) [Fastest Response]
-- Discord: <button class="clipboard">vercetti#7058</button>
+- Discord: <button id="text-to-copy" onclick="copyToClipboard()">vercetti#7058</button>
 - [Instagram](https://www.instagram.com/tfwansh/) [Mostly inactive, slowest response].
 
-{% include /assets/js %}
+<script>function copyToClipboard(){let t=document.getElementById("text-to-copy").innerText;navigator.clipboard.writeText(t).then(function(){alert("Text copied to clipboard!")},function(){alert("Failed to copy text to clipboard.")})}</script>
