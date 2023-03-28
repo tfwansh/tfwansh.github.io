@@ -1,10 +1,10 @@
 /* Dark mode styling */
-body.dark-mode {
+body {
   background-color: #222;
   color: #fff;
 }
 
-/* Toggle button styling */
+/* Toggle button styling 
 #dark-mode-toggle {
   background-color: #fff;
   color: #222;
@@ -17,4 +17,4 @@ body.dark-mode {
 #dark-mode-toggle.dark-mode {
   background-color: #222;
   color: #fff;
-}
+}*/

@@ -36,7 +36,7 @@ tech, music, movies, writing, film making, photography, fitness, video games, gu
 ---
 #### *📫 Wanna reach out?*  
 - [E-mail](mailto:mailansh@pm.me) [Fastest Response]
-- Discord: <button onclick="copyToClipboard()" style="background-color: #222; color: #fff; border: 2px solid #fff; padding: 10px 20px; font-size: 16px; cursor: pointer;">vercetti#7058</button>
+- **Discord:** <button onclick="copyToClipboard()" style="background-color: #222; color: #fff; border: 2px; border-radius: 7px; solid #fff; padding: 5px 9px; font-size: 16px; cursor: pointer;">vercetti#7058</button>
 - [Instagram](https://www.instagram.com/tfwansh/) [Mostly inactive, slowest response].
 
 <head>
