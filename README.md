@@ -4,6 +4,11 @@ title: TFW.
 js:
   - /assets/js/script.js
 --- -->
+<head>
+  <link rel="stylesheet" type="text/css" href="/assets/css/dark-mode.css">
+</head>
+
+
 ### Hi there 👋 !
 
 **The name is Ansh. Online, I go by tfwansh.**
@@ -38,10 +43,6 @@ tech, music, movies, writing, film making, photography, fitness, video games, gu
 - [E-mail](mailto:mailansh@pm.me) [Fastest Response]
 - **Discord:** <button onclick="copyToClipboard()" style="background-color: #222; color: #fff; border: 2px; border-radius: 7px; solid #fff; padding: 5px 9px; font-size: 16px; cursor: pointer;">vercetti#7058</button>
 - [Instagram](https://www.instagram.com/tfwansh/) [Mostly inactive, slowest response].
-
-<head>
-  <link rel="stylesheet" type="text/css" href="/assets/css/dark-mode.css">
-</head>
 
 <script>
 function copyToClipboard() {
