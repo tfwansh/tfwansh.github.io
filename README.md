@@ -1,6 +1,5 @@
 ---
 layout: default
-title: TFW!
 js:
   - /assets/js/script.js
 ---
