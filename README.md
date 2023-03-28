@@ -30,11 +30,6 @@ tech, music, movies, writing, film making, photography, fitness, video games, gu
 ---
 #### *📫 Wanna reach out?*  
 - [E-mail](mailto:mailansh@pm.me) [Fastest Response]
-- Discord:
- ```java
- 
- vercetti#7058
- 
- ```
+- Discord: <div class="background"><button class="clipboard">vercetti#7058</button></div>
 - [Instagram](https://www.instagram.com/tfwansh/) [Mostly inactive, slowest response].
 
