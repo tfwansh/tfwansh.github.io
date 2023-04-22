@@ -11,7 +11,7 @@ js:
 
 ### Hi there 👋 !
 
-**The name is Ansh. Online, I go by tfwansh.**
+**The name is Ansh.**
 
 ### **⚡ Socials:**  
 - E-mail: [mailansh@pm.me](mailto:mailansh@pm.me)      
@@ -33,7 +33,7 @@ js:
 - Currently busy creating a personal online brand. Content creation starts soon, apparently.
 
 ---
-### **💬You can talk to me about:**
+### **💬 You can talk to me about:**
 
 tech, music, movies, writing, film making, photography, video games, drums, basketball, programming, chess, choreography, cooking, F1, cybersecurity, social engineering, constructed adventures/escape rooms, comedy.
 
