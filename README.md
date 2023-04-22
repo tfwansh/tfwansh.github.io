@@ -30,7 +30,9 @@ js:
 ### **🔭 About Me:**
 
 - Computer Science Undergrad, Freshman(soon).  
-- Currently busy creating a personal online brand. Content creation starts soon, apparently.
+<!---- Currently busy creating a personal online brand. Content creation starts soon, apparently.--->
+- I love hoarding cool email addresses for myself and others. My favourite one is *somailtome@gmail.com*.
+
 
 ---
 ### **💬 You can talk to me about:**
