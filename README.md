@@ -33,10 +33,9 @@ js:
 - Currently busy creating a personal online brand. Content creation starts soon, apparently.
 
 ---
-### **💬 Interests:**
+### **💬You can talk to me about:**
 
-tech, music, movies, writing, film making, photography, fitness, video games, guitar, drums, finance, economics, startups, products, marketing, social media, football, basketball, programming, chess, choreography, cooking, cars, F1, geopolitics, cybersecurity, social engineering, constructed adventures/escape rooms, hiking, comedy.
-(So cliche right? Ik ... But I need to fill this page for now).
+tech, music, movies, writing, film making, photography, video games, drums, basketball, programming, chess, choreography, cooking, F1, cybersecurity, social engineering, constructed adventures/escape rooms, comedy.
 
 ---
 #### *📫 Wanna reach out?*  
