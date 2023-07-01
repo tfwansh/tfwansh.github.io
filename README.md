@@ -14,7 +14,7 @@ js:
 **The name is Ansh.**
 
 ### **⚡ Socials:**  
-- E-mail: [mailansh@pm.me](mailto:mailansh@pm.me)      
+- E-mail: [mailansh@proton.me](mailto:mailansh@proton.me)      
 - Website: [https://tfwansh.github.io](https://tfwansh.github.io)
 
 - Twitter: [https://twitter.com/tfwansh](https://twitter.com/tfwansh)    
