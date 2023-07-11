@@ -29,7 +29,7 @@ js:
 ---
 ### **🔭 About Me:**
 
-- Computer Science Undergrad, Freshman(soon).  
+- Electronics and Communications Undergrad, Freshman.  
 <!---- Currently busy creating a personal online brand. Content creation starts soon, apparently.--->
 - I love hoarding cool email addresses for myself and others. My favourite one is *somailtome@gmail.com*.
 
@@ -37,13 +37,13 @@ js:
 ---
 ### **💬 You can talk to me about:**
 
-tech, music, movies, writing, film making, photography, video games, drums, basketball, cricket, architecture, programming, chess, food, F1, cybersecurity, social engineering, constructed adventures/escape rooms, comedy.
+tech, music, movies, writing, film making, photography, video games, drums, basketball, cricket, architecture, computer science, electronics, chess, food, F1, cybersecurity, social engineering, constructed adventures/escape rooms, comedy.
 
 ---
 #### *📫 Wanna reach out?*  
-- [E-mail](mailto:mailansh@pm.me) [Fastest Response]
+- [E-mail](mailto:mailansh@proton.me) [Fastest Response]
+- [Instagram](https://www.instagram.com/tfwansh/).
 - **Discord:** <button onclick="copyToClipboard()" style="background-color: #222; color: #fff; border: 2px; border-radius: 7px; solid #fff; padding: 5px 9px; font-size: 16px; cursor: pointer;">vercetti#7058 &#x1f4cb;</button>
-- [Instagram](https://www.instagram.com/tfwansh/) [Mostly inactive, delayed response].
 
 <script>
 function copyToClipboard() {
