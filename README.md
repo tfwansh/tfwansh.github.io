@@ -17,12 +17,7 @@ js:
 - E-mail: [mailansh@proton.me](mailto:mailansh@proton.me)      
 - Website: [https://tfwansh.github.io](https://tfwansh.github.io)
 
-- Twitter: [https://twitter.com/tfwansh](https://twitter.com/tfwansh)    
-<!--- Github: [https://github.com/tfwansh](https://github.com/tfwansh)
-
-- Youtube: [https://www.youtube.com/@tfwansh](https://www.youtube.com/@tfwansh)   
-- Twitch: [https://www.twitch.tv/tfwansh](https://www.twitch.tv/tfwansh)
--->
+- Twitter: [https://twitter.com/tfwansh](https://twitter.com/tfwansh) 
 - Instagram: [https://www.instagram.com/tfwansh/](https://www.instagram.com/tfwansh/)
 - Threads: @tfwansh    
 <!--- - Reddit: [https://www.reddit.com/user/tfwansh](https://www.reddit.com/user/tfwansh) --->
