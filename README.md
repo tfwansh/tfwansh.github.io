@@ -32,6 +32,7 @@ js:
 
 - Electronics and Communications Undergrad, Freshman.  
 <!---- Currently busy creating a personal online brand. Content creation starts soon, apparently.--->
+- From Kolkata, WB.
 - I love hoarding cool email addresses for myself and others. My favourite one is *somailtome@gmail.com*.
 
 
